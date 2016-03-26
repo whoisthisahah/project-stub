@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stub to start a new [BEM](https://bem.info) project
 
 Project-stub is a template project repository used for BEM projects creation. It contains the minimal configuration files and folders you will need for quick start from scratch.
@@ -153,3 +154,7 @@ This generator provides you the ability to get the base of BEM project in few mi
 
 - [BEM - Building 'em modular](https://www.youtube.com/watch?v=huQp7gr3WPE)
 - [BEM for JavaScript Talk on Camp JS](https://en.bem.info/talks/campjs-melbourne-2014/)
+=======
+# project-stub
+example BEM Yandex
+>>>>>>> 6a605e4ded8484340cea2245cc01c5a5432a3bc3
